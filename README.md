@@ -52,3 +52,4 @@ After training, the model is used to predict future demand based on new input va
 Through this project, I gained practical experience in data preprocessing, machine learning model development, model evaluation, and demand forecasting. I also learned how to use Pandas for data manipulation and Scikit-learn for implementing predictive analytics solutions.
 
 OUTPUT : 
+<img width="643" height="768" alt="Image" src="https://github.com/user-attachments/assets/acec21e9-2048-47b5-89bc-ba90a00159be" />
